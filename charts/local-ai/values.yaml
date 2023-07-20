@@ -38,7 +38,7 @@ models:
   # The list of URLs to download models from
   # Note: the name of the file will be the name of the loaded model
   list:
-    - url: "https://huggingface.co/ggerganov/whisper.cpp/blob/main/ggml-large.bin"
+    - url: "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large.bin"
       # basicAuth: base64EncodedCredentials
 
   # Persistent storage for models and prompt templates.
